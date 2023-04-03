@@ -1,0 +1,22 @@
+2023-04-03 03:20:51.723453 - Initialized conversion of CBT875
+2023-04-03 03:20:52.608776 - Received CBT.V504.FILE875.PDS from FILE875.XMI 
+2023-04-03 03:20:52.611396 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE875.PDS, moved to PDS/$$$#DATE
+2023-04-03 03:20:52.612460 - Found $LNDSTOB.jcl (text/plain) in CBT.V504.FILE875.PDS, moved to PDS/$LNDSTOB
+2023-04-03 03:20:52.613853 - Found @FILE875.txt (text/plain) in CBT.V504.FILE875.PDS, moved to PDS/@FILE875
+2023-04-03 03:20:52.613867 - Found AL68CAWS.bin containing application/octet-stream, moved to PDS/AL68CAWS
+2023-04-03 03:20:52.617137 - Found A68COBJ.bin containing application/octet-stream, moved to PDS/A68COBJ
+2023-04-03 03:20:52.618496 - Found DISTOBJ.bin containing application/octet-stream, moved to PDS/DISTOBJ
+2023-04-03 03:20:52.621057 - Found INSTJOB.jcl (text/plain) in CBT.V504.FILE875.PDS, moved to PDS/INSTJOB
+2023-04-03 03:20:52.622108 - Found INSTJOB#.jcl (text/plain) in CBT.V504.FILE875.PDS, moved to PDS/INSTJOB#
+2023-04-03 03:20:52.622121 - Found LANGREF.bin containing application/octet-stream, moved to PDS/LANGREF
+2023-04-03 03:20:52.623438 - Found MISCDOC.bin containing application/octet-stream, moved to PDS/MISCDOC
+2023-04-03 03:20:52.624682 - Found MISCJCL.bin containing application/octet-stream, moved to PDS/MISCJCL
+2023-04-03 03:20:52.625703 - Found MISCSRC.bin containing application/octet-stream, moved to PDS/MISCSRC
+2023-04-03 03:20:52.626781 - Found SYS.bin containing application/octet-stream, moved to PDS/SYS
+2023-04-03 03:20:52.627910 - Found TESTOUT.bin containing application/octet-stream, moved to PDS/TESTOUT
+2023-04-03 03:20:52.629118 - Found TESTSRC.bin containing application/octet-stream, moved to PDS/TESTSRC
+2023-04-03 03:20:52.630505 - Found USEROBJ.bin containing application/octet-stream, moved to PDS/USEROBJ
+2023-04-03 03:20:52.631671 - Found USERSRC.bin containing application/octet-stream, moved to PDS/USERSRC
+2023-04-03 03:20:52.632814 - Found ZLIBOBJ.bin containing application/octet-stream, moved to PDS/ZLIBOBJ
+2023-04-03 03:20:52.633878 - Found ZLIBSRC.bin containing application/octet-stream, moved to PDS/ZLIBSRC
+2023-04-03 03:20:52.635256 - Found Z370OBJ.bin containing application/octet-stream, moved to PDS/Z370OBJ
